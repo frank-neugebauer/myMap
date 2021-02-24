@@ -77,7 +77,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/geb.json#startHouse"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/frank-neugebauer.github.io\/myMap\/geb\/geb.json#startHouse"
                 }],
          "type":"tilelayer",
          "visible":true,

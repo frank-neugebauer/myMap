@@ -17,14 +17,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"\/haus.json"
-                }, 
-                {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/haus.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/frank-neugebauer.github.io\/myMap\/geb\/haus.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
